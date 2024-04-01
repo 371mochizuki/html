@@ -1,1 +1,8 @@
 test.txt
+.gitignore.swp
+..gitignore.un~
+.gitignore~
+.index.html.un~
+.styles.css.un~
+index.html~
+styles.css~
